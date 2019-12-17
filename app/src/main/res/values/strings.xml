@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TxtArchivos</string>
+    <string name="ingresanombre">Ingresa tu nombre</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="nombre">Nombre</string>
+    <string name="contenido">Contenido</string>
+    <string name="btngrabar">Grabar</string>
+    <string name="btncargar">Cargar</string>
+</resources>
